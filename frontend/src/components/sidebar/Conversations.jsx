@@ -19,5 +19,4 @@ const Conversations = () => {
         </div>
     );
 };
-
 export default Conversations;
